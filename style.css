@@ -1,0 +1,263 @@
+
+.main{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:whitesmoke;
+}
+    .cont{
+    
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.but1{
+   color: whitesmoke;
+   background-color: black;
+   padding-top: 9px;
+   padding: 2%;
+   border-radius: 10px;
+   width: 2px,2px 2px;
+   height: 2px;
+
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 14px 17px;
+}
+#img{
+    width:600px;
+    margin: 5%;
+    margin-left: 20%;
+    margin-top: -8%;
+    float: right;
+    
+    
+}
+#but2{
+    
+    border-radius: 5px;
+    color: aliceblue;
+    background:black;
+    font-size: 20px;
+}
+h2{
+    
+    font-size: 80px;
+
+}
+#ordinary{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#img2{
+    width:300px;
+
+margin-top: -20%;
+
+
+}
+h3{
+    text-align: center;
+    font-size:80px;
+
+}
+.divnum{
+    
+    display: flex;
+    background-color : bisque;
+    background-size: 20%;
+    
+}
+.divpro{
+
+    border: 0px;
+    border: solid black;
+    text-align: left;
+    margin-right: 20px;
+    background-color:whitesmoke;
+text-align: right 3px;
+border-radius: 10px;
+padding-left: 20px;
+
+    
+}
+.divassu{
+    border: 0px;
+    border: solid black;
+    text-align: left;
+    margin-right: 20px;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.divhigh{
+    border: 0px;
+    border: solid black;
+    text-align: left;
+    margin-right: 20px;
+    background-color:whitesmoke;
+    border-radius: 10px;
+    padding-left: 20px;
+    
+
+}
+#chair2{
+    width: 250px;
+}
+#img5{
+float: right ;
+width: 450px;
+margin-top: 100px;
+}
+h5{
+    font-size: 70px;
+}
+#but3{
+    border-radius: 5px;
+    color: aliceblue;
+    background:black;
+    font-size: 20px; 
+}
+.int{
+    margin-top: 200px;
+    font-size: 50px;
+}
+.spic1{
+    margin-left: 20%;
+}
+.xpic2{
+    margin-left: 900%;
+  
+    margin-top: -26%;
+}
+
+
+
+.row{
+    box-sizing: border-box;
+display: flex;
+
+}
+.column1{
+    width: 20px;
+    flex: 35%;
+    padding: 5px;
+
+}
+.column2{
+    width: 500px;
+    flex: 35%;
+    padding: 10px;
+
+}
+.column3{
+    width: 20px;
+    flex: 35%;
+    padding: 5px;
+}
+.row2{
+    text-align: left;
+    box-sizing: border-box;
+    display: flex;
+}
+.column4{
+    width: 20px;
+    flex: 35%;
+    padding: 5px;
+}
+.column5{
+    width: 10px;
+    flex: 35%;
+    padding: 5px;
+}
+.column6{
+    width: 20px;
+    flex: 35%;
+    padding: 5px;
+} 
+.lawson{
+    margin-top:30%;
+
+} 
+.Caldwell{
+    margin-top:30%;
+    margin-left: 205;
+}
+.Shell{
+    margin-left: -10%;
+    margin-top:30%;
+    margin-left: 10%;
+}
+.alt2{
+margin: 40%;
+margin-top: -20%;
+float:0px;
+
+}
+.but4{
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 0px;
+    margin: auto;
+    margin-left: 30%;
+    margin-top: 40px;
+}
+.flex{
+    text-align: left;
+    box-sizing: border-box;
+    display: flex;
+    border: 0px;
+}
+.sub{
+    margin-top: -25%;
+    margin-left: 10%;
+    font-size: 50px;
+    color: antiquewhite;
+    
+    
+}
+input{
+    padding: 23px;
+    width: 250px;
+    margin-left: 30px;
+     
+}
+.button{
+    margin-left: 23%;
+    margin-top: -40px;
+    
+}
+#lastbut{
+    padding: 5px 5px;
+    border-radius: px;
+    color: aliceblue;
+    background-color: black;
+}
+.allcont{
+    display: flex;
+    text-align: justify;
+    justify-content: space-between;
+}
+.copy{
+    font-size: 30px;
+
+}
+.help{
+    font-size: 30px;
+}
+.port{
+    font-size: 30px;
+}
+.watsup{
+    font-size: 30px;
+}
+
+
+
+    
